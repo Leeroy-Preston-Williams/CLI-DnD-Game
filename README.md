@@ -9,4 +9,4 @@ A command line text based Dungeons and Dragons style game, tested on Unix system
 
 ## Usage
 
-Run: ```python3 game.py     
+Run:  "python3 game.py"
